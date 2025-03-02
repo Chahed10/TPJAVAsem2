@@ -2,11 +2,11 @@
 
 <project>
 	<settings>
-		<label>Ex1</label>
+		<label>TP8</label>
 		<root_path>\</root_path>
 		<output_path>classes\</output_path>
 		<source_path>src\</source_path>
-		<jdkprofile_ref>JDK version 1.8.0_171</jdkprofile_ref>
+		<jdkprofile_ref/>
 		<compiler_ref/>
 		<ant_ref/>
 	</settings>
@@ -19,7 +19,7 @@
 			<applet_ref/>
 			<debugger_ref/>
 			<param/>
-			<run>app1</run>
+			<run>Clavier</run>
 			<verify>true</verify>
 		</runtime>
 	</runtimes>
@@ -30,23 +30,19 @@
 				<path>src</path>
 			</folderitem>
 			<fileitem>
-				<path>src\app1.java</path>
-				<folder>src</folder>
-			</fileitem>
-			<fileitem>
-				<path>src\app2.java</path>
-				<folder>src</folder>
-			</fileitem>
-			<fileitem>
-				<path>src\app3.java</path>
-				<folder>src</folder>
-			</fileitem>
-			<fileitem>
 				<path>src\Clavier.java</path>
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>
-				<path>src\Ex1.java</path>
+				<path>src\ex2.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\exemple.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\TP8.java</path>
 				<folder>src</folder>
 			</fileitem>
 		</include>
