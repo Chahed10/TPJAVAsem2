@@ -9,9 +9,6 @@
 			<label>TP8</label>
 			<showfiles>false</showfiles>
 			<folderitem>
-				<path>classes</path>
-			</folderitem>
-			<folderitem>
 				<path>src</path>
 			</folderitem>
 		</project>
@@ -30,16 +27,24 @@
 			<active>false</active>
 		</docitem>
 		<docitem>
-			<path>src\ex1.java</path>
+			<path>src\ex2.java</path>
 			<source>true</source>
 			<index>2</index>
 			<active>false</active>
 		</docitem>
 		<docitem>
-			<path>src\ex2.java</path>
+			<path>src\ex3.java</path>
 			<source>true</source>
 			<index>3</index>
 			<active>true</active>
 		</docitem>
 	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\ex3.java.sdk</path>
+			<symbols>
+				<symbol>ex3</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
 </workspace_user>
