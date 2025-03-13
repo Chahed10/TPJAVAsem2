@@ -2,18 +2,18 @@
 
 <workspace>
 	<settings>
-		<label>TP8</label>
-		<id>73</id>
+		<label>TP9 LES METHODES</label>
+		<id>106</id>
 		<version>0</version>
 	</settings>
 	<users>
 		<user>
-			<path>TP8.jcu</path>
+			<path>TP9 LES METHODES.jcu</path>
 		</user>
 	</users>
 	<projects>
 		<project>
-			<path>TP8.jcp</path>
+			<path>TP9 LES METHODES.jcp</path>
 		</project>
 	</projects>
 </workspace>

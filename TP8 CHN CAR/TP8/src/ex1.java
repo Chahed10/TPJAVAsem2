@@ -33,3 +33,32 @@ public class Exercice1 {
         scanner.close();
     }
 }
+/**
+ * @(#)Ex1.java
+ *
+ *
+ * @author 
+ * @version 1.00 2025/3/13
+ */
+
+public class Ex1 {
+	public static int lectureN(){
+		int n;
+		do{
+			System.out.print(s:"Entrez un entier strictement positif:");
+			while (!scanner.hasNextInt()) {
+				System.out.println(x:"Erreur:Veuillez entrer un entier validé.");
+				scanner.next();}
+				n=scanner.nextInt();
+				if (n<=0){
+					System.out.println(x:"Erreur:l'entier doit etre strictement positif.");
+				}
+		}while(n<=0);
+		return n;
+	}
+        
+   
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+}

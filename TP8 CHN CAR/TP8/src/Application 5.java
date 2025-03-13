@@ -2,7 +2,7 @@
  * @(#)Application 5.java
  *
  *
- * @author 
+ * @author
  * @version 1.00 2025/3/2
  */
 
@@ -12,10 +12,10 @@ public class Application 5 {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Entrez une chaîne pour insérer des astérisques : ");
+        System.out.print("Entrez une chaï¿½ne pour insï¿½rer des astï¿½risques : ");
         String toModify = scanner.nextLine();
         String withAsterisks = String.join("*", toModify.split(""));
-        System.out.println("Chaîne modifiée : " + withAsterisks);
+        System.out.println("Chaï¿½ne modifiï¿½e : " + withAsterisks);
         scanner.close();
     }
 }

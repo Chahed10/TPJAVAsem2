@@ -2,12 +2,15 @@
 
 <workspace_user>
 	<active_project>
-		<label>TP8</label>
+		<label>TP9 LES METHODES</label>
 	</active_project>
 	<projects>
 		<project>
-			<label>TP8</label>
+			<label>TP9 LES METHODES</label>
 			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
 			<folderitem>
 				<path>src</path>
 			</folderitem>
@@ -15,41 +18,45 @@
 	</projects>
 	<open_files>
 		<docitem>
-			<path>src\TP8.java</path>
+			<path>src\TP9_LES_METHODES.java</path>
 			<source>true</source>
 			<index>0</index>
 			<active>false</active>
 		</docitem>
 		<docitem>
-			<path>src\ex7.java</path>
+			<path>src\Exemple1.java</path>
 			<source>true</source>
 			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Exemple2.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Ex1.java</path>
+			<source>true</source>
+			<index>3</index>
 			<active>true</active>
 		</docitem>
 	</open_files>
 	<symboltables>
 		<symboltable>
-			<path>src\ex3.java.sdk</path>
+			<path>..\TP8 CHN CAR\TP8\src\ex1.java.sdk</path>
+			<symbols/>
+		</symboltable>
+		<symboltable>
+			<path>src\Ex2.java.sdk</path>
 			<symbols>
-				<symbol>ex3</symbol>
+				<symbol>Ex2</symbol>
 			</symbols>
 		</symboltable>
 		<symboltable>
-			<path>src\exemple.java.sdk</path>
+			<path>src\Ex1.java.sdk</path>
 			<symbols>
-				<symbol>ex1</symbol>
-			</symbols>
-		</symboltable>
-		<symboltable>
-			<path>src\TP8.java.sdk</path>
-			<symbols>
-				<symbol>TP8</symbol>
-			</symbols>
-		</symboltable>
-		<symboltable>
-			<path>src\ex7.java.sdk</path>
-			<symbols>
-				<symbol>ex7</symbol>
+				<symbol>Ex1</symbol>
 			</symbols>
 		</symboltable>
 	</symboltables>

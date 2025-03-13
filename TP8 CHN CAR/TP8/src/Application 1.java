@@ -2,18 +2,17 @@
  * @(#)Application 1.java
  *
  *
- * @author 
+ * @author
  * @version 1.00 2025/3/2
  */
 
 public class Application 1 {
         
-   
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Entrez une chaîne de caractères : ");
+        System.out.print("Entrez une chaï¿½ne de caractï¿½res : ");
         String ch = scanner.nextLine();
-        System.out.print("Entrez un caractère à chercher : ");
+        System.out.print("Entrez un caractï¿½re ï¿½ chercher : ");
         char car = scanner.next().charAt(0);
         int count = 0;
         for (int i = 0; i < ch.length(); i++) {
@@ -21,13 +20,7 @@ public class Application 1 {
                 count++;
             }
         }
-        System.out.println("Le caractère '" + car + "' apparaît " + count + " fois.");
+        System.out.println("Le caractï¿½re '" + car + "' apparaï¿½t " + count + " fois.");
         scanner.close();
-    }
-}
-
-        
-        
-        
     }
 }

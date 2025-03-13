@@ -2,17 +2,17 @@
  * @(#)Application 3.java
  *
  *
- * @author 
+ * @author
  * @version 1.00 2025/3/2
  */
 
 public class Application 3 {
         
-  
+
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Entrez une chaîne pour vérifier si c'est un palindrome : ");
+        System.out.print("Entrez une chaï¿½ne pour vï¿½rifier si c'est un palindrome : ");
         String palindromeCheck = scanner.nextLine();
         String reversed = new StringBuilder(palindromeCheck).reverse().toString();
         if (palindromeCheck.equalsIgnoreCase(reversed)) {
