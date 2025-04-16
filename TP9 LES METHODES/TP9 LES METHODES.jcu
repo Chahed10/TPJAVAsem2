@@ -9,9 +9,6 @@
 			<label>TP9 LES METHODES</label>
 			<showfiles>false</showfiles>
 			<folderitem>
-				<path>classes</path>
-			</folderitem>
-			<folderitem>
 				<path>src</path>
 			</folderitem>
 		</project>
@@ -33,13 +30,13 @@
 			<path>src\Exemple2.java</path>
 			<source>true</source>
 			<index>2</index>
-			<active>false</active>
+			<active>true</active>
 		</docitem>
 		<docitem>
 			<path>src\Ex1.java</path>
 			<source>true</source>
 			<index>3</index>
-			<active>true</active>
+			<active>false</active>
 		</docitem>
 	</open_files>
 	<symboltables>
@@ -57,6 +54,12 @@
 			<path>src\Ex1.java.sdk</path>
 			<symbols>
 				<symbol>Ex1</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\Exemple2.java.sdk</path>
+			<symbols>
+				<symbol>Exemple2</symbol>
 			</symbols>
 		</symboltable>
 	</symboltables>

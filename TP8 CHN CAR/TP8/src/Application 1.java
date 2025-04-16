@@ -11,7 +11,7 @@ public class Application 1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Entrez une cha�ne de caract�res : ");
-        String ch = scanner.nextLine();
+        String ch = clavier.nextLine();
         System.out.print("Entrez un caract�re � chercher : ");
         char car = scanner.next().charAt(0);
         int count = 0;
