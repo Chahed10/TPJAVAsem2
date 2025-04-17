@@ -2,18 +2,18 @@
 
 <workspace>
 	<settings>
-		<label>defghgug</label>
+		<label>test</label>
 		<id>0</id>
 		<version>0</version>
 	</settings>
 	<users>
 		<user>
-			<path>defghgug.jcu</path>
+			<path>test.jcu</path>
 		</user>
 	</users>
 	<projects>
 		<project>
-			<path>defghgug.jcp</path>
+			<path>test.jcp</path>
 		</project>
 	</projects>
 </workspace>

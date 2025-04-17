@@ -1,13 +1,13 @@
 /**
- * @(#)defghgug.java
+ * @(#)test.java
  *
- * defghgug application
+ * test application
  *
  * @author 
- * @version 1.00 2025/4/16
+ * @version 1.00 2025/4/17
  */
  
-public class defghgug {
+public class test {
     
     public static void main(String[] args) {
     	
