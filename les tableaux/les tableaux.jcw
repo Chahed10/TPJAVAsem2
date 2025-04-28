@@ -2,18 +2,18 @@
 
 <workspace>
 	<settings>
-		<label>test</label>
-		<id>91</id>
+		<label>les tableaux</label>
+		<id>79</id>
 		<version>0</version>
 	</settings>
 	<users>
 		<user>
-			<path>test.jcu</path>
+			<path>les tableaux.jcu</path>
 		</user>
 	</users>
 	<projects>
 		<project>
-			<path>test.jcp</path>
+			<path>les tableaux.jcp</path>
 		</project>
 	</projects>
 </workspace>

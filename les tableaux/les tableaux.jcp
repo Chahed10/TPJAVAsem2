@@ -2,7 +2,7 @@
 
 <project>
 	<settings>
-		<label>test</label>
+		<label>les tableaux</label>
 		<root_path>\</root_path>
 		<output_path>classes\</output_path>
 		<source_path>src\</source_path>
@@ -19,7 +19,7 @@
 			<applet_ref/>
 			<debugger_ref/>
 			<param/>
-			<run>Clavier</run>
+			<run>application2</run>
 			<verify>true</verify>
 		</runtime>
 	</runtimes>
@@ -30,23 +30,31 @@
 				<path>src</path>
 			</folderitem>
 			<fileitem>
+				<path>src\application 1.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\application 2.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\application 3.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\application 4.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
 				<path>src\Clavier.java</path>
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>
-				<path>src\exercice1.java</path>
+				<path>src\les_tableaux.java</path>
 				<folder>src</folder>
 			</fileitem>
 			<fileitem>
-				<path>src\exercice2.java</path>
-				<folder>src</folder>
-			</fileitem>
-			<fileitem>
-				<path>src\exercice3.java</path>
-				<folder>src</folder>
-			</fileitem>
-			<fileitem>
-				<path>src\test.java</path>
+				<path>src\methode1.java</path>
 				<folder>src</folder>
 			</fileitem>
 		</include>
