@@ -29,7 +29,6 @@
         String operation;
 
         System.out.println("Calculatrice Simple");
-        System.out.println("------------------");
 
         do {
             System.out.print("Choisissez une opération (+, -, *, /) : ");

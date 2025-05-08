@@ -11,6 +11,21 @@
 			<folderitem>
 				<path>src</path>
 			</folderitem>
+			<folderitem>
+				<path>src\src</path>
+			</folderitem>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>les tableaux</path>
+			</folderitem>
+			<folderitem>
+				<path>les tableaux\classes</path>
+			</folderitem>
+			<folderitem>
+				<path>les tableaux\src</path>
+			</folderitem>
 		</project>
 	</projects>
 	<open_files>
@@ -30,7 +45,7 @@
 			<path>src\Exemple2.java</path>
 			<source>true</source>
 			<index>2</index>
-			<active>true</active>
+			<active>false</active>
 		</docitem>
 		<docitem>
 			<path>src\Ex1.java</path>
@@ -51,15 +66,27 @@
 			</symbols>
 		</symboltable>
 		<symboltable>
+			<path>src\Exemple2.java.sdk</path>
+			<symbols>
+				<symbol>Exemple2</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
 			<path>src\Ex1.java.sdk</path>
 			<symbols>
 				<symbol>Ex1</symbol>
 			</symbols>
 		</symboltable>
 		<symboltable>
-			<path>src\Exemple2.java.sdk</path>
+			<path>src\TP9_LES_METHODES.java.sdk</path>
 			<symbols>
-				<symbol>Exemple2</symbol>
+				<symbol>TP9_LES_METHODES</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>src\Exemple1.java.sdk</path>
+			<symbols>
+				<symbol>Exemple1</symbol>
 			</symbols>
 		</symboltable>
 	</symboltables>

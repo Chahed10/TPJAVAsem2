@@ -29,6 +29,15 @@
 			<folderitem>
 				<path>src</path>
 			</folderitem>
+			<folderitem>
+				<path>src\src</path>
+			</folderitem>
+			<folderitem>
+				<path>les tableaux</path>
+			</folderitem>
+			<folderitem>
+				<path>les tableaux\src</path>
+			</folderitem>
 			<fileitem>
 				<path>src\Clavier.java</path>
 				<folder>src</folder>
@@ -52,6 +61,62 @@
 			<fileitem>
 				<path>src\TP9_LES_METHODES.java</path>
 				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\src\application 1.java</path>
+				<folder>src\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\src\application 2.java</path>
+				<folder>src\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\src\application 3.java</path>
+				<folder>src\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\src\application 4.java</path>
+				<folder>src\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\src\Clavier.java</path>
+				<folder>src\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\src\les_tableaux.java</path>
+				<folder>src\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\src\methode1.java</path>
+				<folder>src\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>les tableaux\src\application 1.java</path>
+				<folder>les tableaux\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>les tableaux\src\application 2.java</path>
+				<folder>les tableaux\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>les tableaux\src\application 3.java</path>
+				<folder>les tableaux\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>les tableaux\src\application 4.java</path>
+				<folder>les tableaux\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>les tableaux\src\Clavier.java</path>
+				<folder>les tableaux\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>les tableaux\src\les_tableaux.java</path>
+				<folder>les tableaux\src</folder>
+			</fileitem>
+			<fileitem>
+				<path>les tableaux\src\methode1.java</path>
+				<folder>les tableaux\src</folder>
 			</fileitem>
 		</include>
 	</files>
